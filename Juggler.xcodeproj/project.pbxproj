@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		677AC89719169A5C00E7B0A1 /* ball.png in Resources */ = {isa = PBXBuildFile; fileRef = 677AC89619169A5C00E7B0A1 /* ball.png */; };
 		679DE4761909A5D900B4F7E7 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 679DE4751909A5D900B4F7E7 /* Foundation.framework */; };
 		679DE4781909A5D900B4F7E7 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 679DE4771909A5D900B4F7E7 /* CoreGraphics.framework */; };
 		679DE47A1909A5D900B4F7E7 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 679DE4791909A5D900B4F7E7 /* UIKit.framework */; };
@@ -38,6 +39,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		677AC89619169A5C00E7B0A1 /* ball.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ball.png; sourceTree = "<group>"; };
 		679DE4721909A5D900B4F7E7 /* Juggler.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Juggler.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		679DE4751909A5D900B4F7E7 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		679DE4771909A5D900B4F7E7 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -123,6 +125,7 @@
 		679DE47D1909A5D900B4F7E7 /* Juggler */ = {
 			isa = PBXGroup;
 			children = (
+				677AC89619169A5C00E7B0A1 /* ball.png */,
 				679DE4861909A5D900B4F7E7 /* EFAppDelegate.h */,
 				679DE4871909A5D900B4F7E7 /* EFAppDelegate.m */,
 				679DE4891909A5D900B4F7E7 /* Main_iPhone.storyboard */,
@@ -246,6 +249,7 @@
 			files = (
 				679DE4961909A5D900B4F7E7 /* Spaceship.png in Resources */,
 				679DE4981909A5D900B4F7E7 /* Images.xcassets in Resources */,
+				677AC89719169A5C00E7B0A1 /* ball.png in Resources */,
 				679DE48E1909A5D900B4F7E7 /* Main_iPad.storyboard in Resources */,
 				679DE48B1909A5D900B4F7E7 /* Main_iPhone.storyboard in Resources */,
 				679DE4821909A5D900B4F7E7 /* InfoPlist.strings in Resources */,
@@ -487,6 +491,7 @@
 				679DE4B01909A5D900B4F7E7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		679DE4B11909A5D900B4F7E7 /* Build configuration list for PBXNativeTarget "JugglerTests" */ = {
 			isa = XCConfigurationList;
@@ -495,6 +500,7 @@
 				679DE4B31909A5D900B4F7E7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

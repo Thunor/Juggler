@@ -24,6 +24,9 @@
     SKScene * scene = [EFMyScene sceneWithSize:skView.bounds.size];
     scene.scaleMode = SKSceneScaleModeAspectFill;
     
+    // Set gravity
+    scene.physicsWorld.gravity=CGVectorMake(0, -1);
+    
     // Present the scene.
     [skView presentScene:scene];
 }
