@@ -19,7 +19,6 @@
 		679DE48E1909A5D900B4F7E7 /* Main_iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 679DE48C1909A5D900B4F7E7 /* Main_iPad.storyboard */; };
 		679DE4911909A5D900B4F7E7 /* EFViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 679DE4901909A5D900B4F7E7 /* EFViewController.m */; };
 		679DE4941909A5D900B4F7E7 /* EFMyScene.m in Sources */ = {isa = PBXBuildFile; fileRef = 679DE4931909A5D900B4F7E7 /* EFMyScene.m */; };
-		679DE4961909A5D900B4F7E7 /* Spaceship.png in Resources */ = {isa = PBXBuildFile; fileRef = 679DE4951909A5D900B4F7E7 /* Spaceship.png */; };
 		679DE4981909A5D900B4F7E7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 679DE4971909A5D900B4F7E7 /* Images.xcassets */; };
 		679DE49F1909A5D900B4F7E7 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 679DE49E1909A5D900B4F7E7 /* XCTest.framework */; };
 		679DE4A01909A5D900B4F7E7 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 679DE4751909A5D900B4F7E7 /* Foundation.framework */; };
@@ -57,7 +56,6 @@
 		679DE4901909A5D900B4F7E7 /* EFViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = EFViewController.m; sourceTree = "<group>"; };
 		679DE4921909A5D900B4F7E7 /* EFMyScene.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = EFMyScene.h; sourceTree = "<group>"; };
 		679DE4931909A5D900B4F7E7 /* EFMyScene.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = EFMyScene.m; sourceTree = "<group>"; };
-		679DE4951909A5D900B4F7E7 /* Spaceship.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Spaceship.png; sourceTree = "<group>"; };
 		679DE4971909A5D900B4F7E7 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		679DE49D1909A5D900B4F7E7 /* JugglerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = JugglerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		679DE49E1909A5D900B4F7E7 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
@@ -134,7 +132,6 @@
 				679DE4901909A5D900B4F7E7 /* EFViewController.m */,
 				679DE4921909A5D900B4F7E7 /* EFMyScene.h */,
 				679DE4931909A5D900B4F7E7 /* EFMyScene.m */,
-				679DE4951909A5D900B4F7E7 /* Spaceship.png */,
 				679DE4971909A5D900B4F7E7 /* Images.xcassets */,
 				679DE47E1909A5D900B4F7E7 /* Supporting Files */,
 			);
@@ -247,7 +244,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				679DE4961909A5D900B4F7E7 /* Spaceship.png in Resources */,
 				679DE4981909A5D900B4F7E7 /* Images.xcassets in Resources */,
 				677AC89719169A5C00E7B0A1 /* ball.png in Resources */,
 				679DE48E1909A5D900B4F7E7 /* Main_iPad.storyboard in Resources */,
