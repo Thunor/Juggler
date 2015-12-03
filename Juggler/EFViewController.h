@@ -3,7 +3,7 @@
 //  Juggler
 //
 
-//  Copyright (c) 2014 ___FULLUSERNAME___. All rights reserved.
+//  Copyright (c) 2014 Eric Freitas. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

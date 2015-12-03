@@ -3,7 +3,7 @@
 //  Juggler
 //
 //  Created by Eric Freitas on 4/24/14.
-//  Copyright (c) 2014 ___FULLUSERNAME___. All rights reserved.
+//  Copyright (c) 2014 Eric Freitas. All rights reserved.
 //
 
 #import "EFViewController.h"
@@ -36,7 +36,7 @@
     return YES;
 }
 
-- (NSUInteger)supportedInterfaceOrientations
+- (UIInterfaceOrientationMask)supportedInterfaceOrientations
 {
     if ([[UIDevice currentDevice] userInterfaceIdiom] == UIUserInterfaceIdiomPhone) {
         return UIInterfaceOrientationMaskAllButUpsideDown;

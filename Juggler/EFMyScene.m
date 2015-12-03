@@ -3,7 +3,7 @@
 //  Juggler
 //
 //  Created by Eric Freitas on 4/24/14.
-//  Copyright (c) 2014 ___FULLUSERNAME___. All rights reserved.
+//  Copyright (c) 2014 Eric Freitas. All rights reserved.
 //
 
 #import "EFMyScene.h"
@@ -23,7 +23,7 @@
 
 -(id)initWithSize:(CGSize)size {    
     if (self = [super initWithSize:size]) {
-        /* Setup your scene here */
+        /* Setup the scene here */
         
         _sceneRect = [[UIScreen mainScreen] bounds];
         CGFloat sceneWidth = _sceneRect.size.width;
@@ -89,7 +89,6 @@
     
     for (UITouch *touch in touches) {
         CGPoint location = [touch locationInNode:self];
-        
         
         if ([self currentBallCount] < 3)
         {
@@ -198,7 +197,6 @@
 
 -(void)update:(CFTimeInterval)currentTime
 {
-
     /* Called before each frame is rendered */
     
     for (SKNode *node in [self children])

@@ -1,0 +1,122 @@
+{
+  "images" : [
+    {
+      "size" : "29x29",
+      "idiom" : "iphone",
+      "scale" : "1x",
+      "filename" : "iPhoneIcon29@1x.png"
+    },
+    {
+      "size" : "29x29",
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "filename" : "iPhoneIcon29@2x.png"
+    },
+    {
+      "size" : "29x29",
+      "idiom" : "iphone",
+      "scale" : "3x",
+      "filename" : "iPhoneIcon29@3x.png"
+    },
+    {
+      "size" : "40x40",
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "filename" : "iPhoneIcon40@2x.png"
+    },
+    {
+      "size" : "40x40",
+      "idiom" : "iphone",
+      "scale" : "3x",
+      "filename" : "iPhoneIcon40@3x.png"
+    },
+    {
+      "size" : "57x57",
+      "idiom" : "iphone",
+      "scale" : "1x",
+      "filename" : "iPhoneIcon57@1x.png"
+    },
+    {
+      "size" : "57x57",
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "filename" : "iPhoneIcon57@2x.png"
+    },
+    {
+      "size" : "60x60",
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "filename" : "iPhoneIcon60@2x.png"
+    },
+    {
+      "size" : "60x60",
+      "idiom" : "iphone",
+      "scale" : "3x",
+      "filename" : "iPhoneIcon60@3x.png"
+    },
+    {
+      "size" : "29x29",
+      "idiom" : "ipad",
+      "scale" : "1x",
+      "filename" : "iPadIcon29@1x.png"
+    },
+    {
+      "size" : "29x29",
+      "idiom" : "ipad",
+      "scale" : "2x",
+      "filename" : "iPadIcon29@2x.png"
+    },
+    {
+      "size" : "40x40",
+      "idiom" : "ipad",
+      "scale" : "1x",
+      "filename" : "iPadIcon40@1x.png"
+    },
+    {
+      "size" : "40x40",
+      "idiom" : "ipad",
+      "scale" : "2x",
+      "filename" : "iPadIcon40@2x.png"
+    },
+    {
+      "size" : "50x50",
+      "idiom" : "ipad",
+      "scale" : "1x",
+      "filename" : "iPadIcon50@1x.png"
+    },
+    {
+      "size" : "50x50",
+      "idiom" : "ipad",
+      "scale" : "2x",
+      "filename" : "iPadIcon50@2x.png"
+    },
+    {
+      "size" : "72x72",
+      "idiom" : "ipad",
+      "scale" : "1x",
+      "filename" : "iPadIcon72@1x.png"
+    },
+    {
+      "size" : "72x72",
+      "idiom" : "ipad",
+      "scale" : "2x",
+      "filename" : "iPadIcon72@2x.png"
+    },
+    {
+      "size" : "76x76",
+      "idiom" : "ipad",
+      "scale" : "1x",
+      "filename" : "iPadIcon76@1x.png"
+    },
+    {
+      "size" : "76x76",
+      "idiom" : "ipad",
+      "scale" : "2x",
+      "filename" : "iPadIcon76@2x.png"
+    }
+  ],
+  "info" : {
+    "author" : "iconoclast",
+    "version" : "1"
+  }
+}
